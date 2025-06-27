@@ -1,2 +1,2 @@
-[email](manu.chintalapathi@gmail.com)  
+[email](mailto:manu.chintalapathi@gmail.com)  
 [linkedin](https://www.linkedin.com/in/manu-chint/)
